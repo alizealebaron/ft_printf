@@ -30,7 +30,7 @@ Le défi est de produire une sortie identique à celle de printf, tout en optimi
 **📦 Contraintes et intégration**
 
 On ne peut utiliser que certaines fonctions autorisées (`malloc`, `free`, `write`, `va_start`, etc.).
-La fonction doit gérer au minimum les conversions suivantes : %c, %s, %p, %d, %i, %u, %x, %X, et % (pourcentage).
+La fonction doit gérer au minimum les conversions suivantes : `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, et `%%` (pourcentage).
 Le code doit être modulaire pour faciliter l’ajout de fonctionnalités (comme les flags ou les conversions supplémentaires en bonus).
 
 **🏆 Objectif final**
