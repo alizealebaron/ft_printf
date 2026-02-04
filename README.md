@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alizealebaron/alizealebaron/blob/main/assets/ft-printf_simple.png" width="120"/>
+  <img src="https://github.com/alizealebaron/alizealebaron/blob/main/assets/ft-printf.png" width="120"/>
 </p>
 <h3 align="center">
   <em>Because ft_putnbr() and ft_putstr() aren’t enough.</em>
