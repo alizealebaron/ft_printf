@@ -7,6 +7,15 @@
 
 ---
 
+<div align="center">
+  <p>
+      <img src="https://img.shields.io/badge/score-125%20%2F%20100-success?style=for-the-badge" />
+      <img src="https://img.shields.io/github/languages/count/alizealebaron/ft_printf?style=for-the-badge&logo=" />
+      <img src="https://img.shields.io/github/languages/top/alizealebaron/ft_printf?style=for-the-badge" />
+      <img src="https://img.shields.io/github/last-commit/alizealebaron/ft_printf?style=for-the-badge" />
+  </p>
+</div>
+
 ## ⚠️ Avant propos
 
 - **Portfolio :** Ce repetoire se concentre sur un seul sujet. Vous pouvez retrouver tous mes projets sur mon [profil](https://github.com/alizealebaron).
