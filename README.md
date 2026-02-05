@@ -29,8 +29,6 @@
 
 **Rendu le :** 13/11/2025.
 
-**Note :** 100/100.
-
 ## 📂 Objectif du projet
 
 L’objectif de ft_printf est de recoder la fonction printf standard de la librairie C, en respectant ses principales fonctionnalités. Ce projet nous plonge dans la gestion des formats, la manipulation des arguments variables (va_list), et la conversion de types (entiers, flottants, chaînes de caractères, etc.).
